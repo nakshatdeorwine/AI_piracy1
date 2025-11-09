@@ -4,8 +4,8 @@ __pycache__/
 *.pyo
 
 # Ignore virtual environments
-venv/
-venv311/
+tvenv/
+tvenv311/
 
 # Ignore datasets & outputs
 runs/
